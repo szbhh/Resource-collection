@@ -1,1 +1,1 @@
-# resource-collection
+收集资源
